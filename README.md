@@ -1,5 +1,6 @@
 # Foodie
-For Techmojo 
+For Techmojo
+
 This application provides the facility to add,  update, delete food items to data store
 Also, provides insights on recent orders and total no Of Orders.
 
